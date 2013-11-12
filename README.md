@@ -20,7 +20,7 @@ TFTP
  1. CreateFile.java
  2. FileChunks.java
  3. SendFile.java
- 4. TFTPServer.java*
+ 4. TFTPServer.java#
  
  It has been assumed that for the purpose of compiling, 
  the user would use the command shell in windows or 
@@ -44,7 +44,7 @@ TFTP
  
  1. CreateFile.java
  2. FileChunks.java
- 3. TFTPClient.java*
+ 3. TFTPClient.java#
  
  Compile the above 3 java files in a single folder 
  and run the 'TFTPClient' java application.
@@ -80,5 +80,5 @@ TFTP
  
 *******************************************************
  
- * programs to be executed after compilation
+ # programs to be executed after compilation
  
